@@ -2,7 +2,7 @@
 //  ListReportTableViewCell.swift
 //  MaCommercial
 //
-//  Created by iem on 09/06/2015.
+//  Created by Nils Truchaud on 09/06/2015.
 //
 
 import UIKit
