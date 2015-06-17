@@ -2,8 +2,6 @@
 //  Participant.swift
 //  MaCommercial
 //
-//  Created by Sarah LAFORETS on 08/06/2015.
-//
 
 import Foundation
 
