@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  MaCommercial
+
+  Created by iem on 09/06/2015.
+  Copyright (c) 2015 Sarah LAFORETS. All rights reserved.
+*/
+
+/** Global **/
+name_app = "MaCommercial";
+global_error = "Erreur";
+global_ok = "Ok";
+global_cancel = "Annuler";
+
+/** Buttons **/
+button_edit = "Modifier";
+button_save = "Enregistrer";
+
+/** Dialogs **/
+//List Contact ~ Client Detail ~ Report Details ~ Client Detail
+dialog_send_email_error_title = "Impossible d'envoyer l'e-mail";
+dialog_send_email_error_message = "Votre appareil ne peux pas envoyer d'e-mail. Veuillez vérifer votre configuration et éssayer à nouveau.";
+report_detail_alert_add_fail_message = "Le compte rendu ne peux être ajouter, veuillez réessayer.";
+report_detail_alert_update_fail_message = "Le compte rendu ne peux pas être sauvegarder, veuillez réessayer.";
+client_detail_image_dialog_title = "Changer l'image de profil";
+client_detail_image_dialog_message = "Entrez une URL pour l'image.";
+client_detail_image_dialog_place_holder = "Votre URL ici";
+client_detail_image_dialog_action_camera = "Appareil photo";
+client_detail_image_dialog_action_library = "Galerie";
+client_detail_image_dialog_action_url = "URL";
+
+/** Login Page **/
+login_error_no_email_and_password = "Veuillez entrer un e-mail et un mot de passe";
+login_error_bad_email_or_password = "Mauvais e-mail ou mot de passe, veuillez réessayer!";
+report_detail_alert_upload_fail_title = "Erreur d'envoi.";
+
+
+/** List Presentations Controller **/
+presentations_list_title = "Présentations";
+
+/** Client Detail ViewController **/
+
+/** Place holder **/
+client_detail_first_name = "Prénom";
+client_detail_last_name = "Nom de famille";
+client_detail_company = "Société";
+client_detail_job = "Poste";
+client_detail_postal_address = "Adresse";
+client_detail_cell = "Téléphone portable";
+client_detail_office = "Téléphone de bureau";
+client_detail_birthday = "Anniversaire";
+client_detail_email = "E-Mail";
+
+/** Meetings **/
+meetings_list_title = "Rendez-vous";
+meetings_list_report = "Comptes rendus";
+
+/** Ajout Update RDV ViewController **/
+meeting_add_update_title = "Ajouter un rendez-vous";
+
+/** Details Meeting ViewController **/
+meeting_detail_title = "Rendez-vous";

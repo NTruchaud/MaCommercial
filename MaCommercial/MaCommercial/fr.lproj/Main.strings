@@ -1,0 +1,132 @@
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "0FL-4R-Gga"; */
+"0FL-4R-Gga.placeholder" = "Nom de famille";
+
+/* Class = "UILabel"; text = "Add a picture"; ObjectID = "0kA-Vb-sj2"; */
+"0kA-Vb-sj2.text" = "Ajouter une image";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "1pk-u2-qih"; */
+"1pk-u2-qih.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Cell number"; ObjectID = "22Q-Gn-kPj"; */
+"22Q-Gn-kPj.text" = "Téléphone portable";
+
+/* Class = "UITextField"; placeholder = "Cell Number"; ObjectID = "38Y-R0-bDJ"; */
+"38Y-R0-bDJ.placeholder" = "Téléphone portable";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4We-KX-T2q"; */
+"4We-KX-T2q.normalTitle" = "Bouton";
+
+/* Class = "UILabel"; text = "MACOMMERCIAL"; ObjectID = "5TK-f1-tRC"; */
+"5TK-f1-tRC.text" = "MACOMMERCIAL";
+
+/* Class = "UILabel"; text = "Auto complete fields thanks to :"; ObjectID = "5vi-cY-46T"; */
+"5vi-cY-46T.text" = "Remplir automatiquement les champs grâce à :";
+
+/* Class = "UITextField"; placeholder = "Birth date"; ObjectID = "8IL-rv-xqc"; */
+"8IL-rv-xqc.placeholder" = "Anniversaire";
+
+/* Class = "UITextField"; text = "Job"; ObjectID = "9TP-fZ-YIa"; */
+"9TP-fZ-YIa.text" = "Poste";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "AOz-4h-fy6"; */
+"AOz-4h-fy6.placeholder" = "E-Mail";
+
+/* Class = "UITextField"; placeholder = "Home Number"; ObjectID = "Bcj-ct-4LO"; */
+"Bcj-ct-4LO.placeholder" = "Téléphone bureau";
+
+/* Class = "UITextField"; text = "Email"; ObjectID = "CSm-5u-aeo"; */
+"CSm-5u-aeo.text" = "E-Mail";
+
+/* Class = "UILabel"; text = "Description :"; ObjectID = "FtB-EK-iPm"; */
+"FtB-EK-iPm.text" = "Description :";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "J5A-qr-0x3"; */
+"J5A-qr-0x3.placeholder" = "Prénom";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "J8s-JU-GzP"; */
+"J8s-JU-GzP.text" = "Sous-titre";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "LqP-Vl-0D7"; */
+"LqP-Vl-0D7.text" = "E-Mail";
+
+/* Class = "UITabBarItem"; title = "Month"; ObjectID = "MOF-M2-ziE"; */
+"MOF-M2-ziE.title" = "Mois";
+
+/* Class = "UITextField"; text = "Company"; ObjectID = "NPp-6G-oac"; */
+"NPp-6G-oac.text" = "Société";
+
+/* Class = "UILabel"; text = "Title : "; ObjectID = "QgS-O5-fhO"; */
+"QgS-O5-fhO.text" = "Titre : ";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Rt1-YY-JoV"; */
+"Rt1-YY-JoV.placeholder" = "Mot de passe";
+
+/* Class = "UITextField"; text = "Cell number"; ObjectID = "U3p-p1-qMM"; */
+"U3p-p1-qMM.text" = "Téléphone portable";
+
+/* Class = "UITabBarItem"; title = "Year"; ObjectID = "UBS-Ge-OQg"; */
+"UBS-Ge-OQg.title" = "Année";
+
+/* Class = "UILabel"; text = "Date :"; ObjectID = "Un7-kk-kdj"; */
+"Un7-kk-kdj.text" = "Date :";
+
+/* Class = "UITextField"; text = "Office number"; ObjectID = "Uxg-5d-kRj"; */
+"Uxg-5d-kRj.text" = "Téléphone bureau";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Wlc-46-3jx"; */
+"Wlc-46-3jx.text" = "Nom";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "Wws-Pf-jcN"; */
+"Wws-Pf-jcN.title" = "Titre";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "YSB-Ic-CjQ"; */
+"YSB-Ic-CjQ.placeholder" = "E-Mail";
+
+/* Class = "UIViewController"; title = "Presentation view controller"; ObjectID = "ZNg-kd-svb"; */
+"ZNg-kd-svb.title" = "Presentation view controller";
+
+/* Class = "UITextField"; text = "Postal address"; ObjectID = "bqJ-LG-6CF"; */
+"bqJ-LG-6CF.text" = "Adresse";
+
+/* Class = "UITextField"; placeholder = "Company"; ObjectID = "d6H-Kd-uXK"; */
+"d6H-Kd-uXK.placeholder" = "Société";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "dHT-Jh-vX9"; */
+"dHT-Jh-vX9.placeholder" = "Adresse";
+
+/* Class = "UITableViewController"; title = "List contact view controller"; ObjectID = "dab-wJ-iDX"; */
+"dab-wJ-iDX.title" = "List contact view controller";
+
+/* Class = "UIViewController"; title = "ClientDetailController"; ObjectID = "duQ-UT-mAc"; */
+"duQ-UT-mAc.title" = "ClientDetailController";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "gb9-zU-Fl0"; */
+"gb9-zU-Fl0.text" = "Connexion";
+
+/* Class = "UILabel"; text = "Location :"; ObjectID = "mpV-w7-GU5"; */
+"mpV-w7-GU5.text" = "Localisation :";
+
+/* Class = "UIViewController"; title = "Ajout / modif RDV"; ObjectID = "nbt-zr-5pL"; */
+"nbt-zr-5pL.title" = "Ajout / modif RDV";
+
+/* Class = "UILabel"; text = "Time :"; ObjectID = "pZO-ln-LFD"; */
+"pZO-ln-LFD.text" = "Heure :";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qFl-HZ-9cO"; */
+"qFl-HZ-9cO.normalTitle" = "Bouton";
+
+/* Class = "UITabBarItem"; title = "Day"; ObjectID = "sbx-aq-i25"; */
+"sbx-aq-i25.title" = "Jour";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yfE-qr-CVP"; */
+"yfE-qr-CVP.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Birthday"; ObjectID = "yuG-jQ-Bku"; */
+"yuG-jQ-Bku.text" = "Anniversaire";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "yxS-cJ-RaG"; */
+"yxS-cJ-RaG.text" = "Titre";
+
+/* Class = "UITextField"; text = "Name"; ObjectID = "zIf-gQ-GnH"; */
+"zIf-gQ-GnH.text" = "Nom";

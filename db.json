@@ -1,0 +1,34 @@
+{
+  "presentations": [
+    {"id" : 1, "title": "MACLEAN Brochure", "description": "Brochure de présentation de MACLEAN", "update": "03/06/2015", "document": "/ressources/brochure.png"},
+    {"id" : 2, "title": "Tarifs 2015", "description": "Tarifs complet des prestations MACLEAN pour 2015/2016", "update": "01/01/2015", "document": "/ressources/tarif.png"},
+    {"id" : 3, "title": "Présentation courte - FR", "description": "Présentation courte en .ppt en Français", "update": "25/09/2014", "document": "/ressources/presentation_FR.pptx"},
+    {"id" : 4, "title": "Short prestation - EN", "description": "Short prestation in .ppt in English", "update": "25/09/2014", "document": "/ressources/presentation_EN.pptx"}
+  ],
+  "users": [
+    {"id" : 1, "last_name": "", "first_name": "", "email": "", "cell_number": "", "company": "", "type": "", "job": "", "picture": "", "postal_adress": "", "home_number": "", "birth_date": "", "password": "glisugdvq45456db"},
+    {"id" : 2, "last_name": "Marie", "first_name": "Gabrie", "email": "m.gabrie@touch.com", "cell_number": "0800055045", "company": "Rainbow Company", "type": "CLIENT", "job": "Institutrice", "picture": "http://photo1.ask.fm/643/655/379/2390003020-1ri9don-bq2n1sget5okm6k/preview/unicorn_potato_by_leurxd6bz4o6.png", "postal_adress": "125, rue des licornes. 01000 Bourg-en-Bresse", "home_number": "0400000001", "birth_date": "25/01/1985", "password": ""},
+    {"id" : 3, "last_name": "Paco", "first_name": "Julio", "email": "gaga@caramail.fr", "cell_number": "0905050201", "company": "", "type": "COMMERCIAL", "job": "", "picture": "", "postal_adress": "", "home_number": "", "birth_date": "", "password": "kjgdfvsdf5555GGD"},
+    {"id" : 4, "last_name": "Kpitaine", "first_name": "Pirate", "email": "bgdu01@troll.feed", "cell_number": "0950230515", "company": "", "type": "COMMERCIAL", "job": "", "picture": "", "postal_adress": "", "home_number": "", "birth_date": "", "password": "hjgfhjsdfp^pf!!!"},
+    {"id" : 5, "last_name": "Test", "first_name": "Test", "email": "test", "cell_number": "0950230515", "company": "", "type": "COMMERCIAL", "job": "", "picture": "", "postal_adress": "", "home_number": "", "birth_date": "", "password": "test"}
+  ],
+  "actions": [
+    {"id" : 1, "id_user" : 1, "label": "", "description": "", "creation_date": "", "goal_date": "", "state": ""}
+  ],
+  "reports": [
+    {"id" : 1, "id_meeting" : 1, "label": "", "date": "", "subject": "", "summary": "", "feedback": "", "signature": ""},
+    {"id" : 2, "id_meeting" : 2, "label": "Rapport préliminaire", "date": "14/02/2015", "subject": "Rapport préliminaire avec la cliente", "summary": "Tarifs / Horraires / Relation", "feedback": "Très bon rapport avec la cliente", "signature": ""}
+  ],
+  "meetings": [
+    {"id" : 1, "label": "", "description": "", "location": "", "date": "", "id_ical": ""},
+    {"id" : 2, "label": "Pré-réunion", "description": "Réunion préliminaire avec la cliente", "location": "Lyon", "date": "12/02/2015", "id_ical": "LLD44-HFZ"},
+    {"id" : 3, "label": "Réunion", "description": "Réunion avec la cliente et d'autres commerciaux", "location": "Lyon", "date": "20/02/2015", "id_ical": "GHJJDGYZ"}
+  ],
+  "participants": [
+    {"id": 1, "id_meeting" : 2, "id_user": 2},
+    {"id": 2, "id_meeting" : 2, "id_user": 3},
+    {"id": 3, "id_meeting" : 3, "id_user": 2},
+    {"id": 4, "id_meeting" : 3, "id_user": 3},
+    {"id": 5, "id_meeting" : 3, "id_user": 4}
+  ]
+}

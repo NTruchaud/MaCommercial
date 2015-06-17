@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings
+  MaCommercial
+
+  Created by iem on 09/06/2015.
+  Copyright (c) 2015 Sarah LAFORETS. All rights reserved.
+*/
+
+/** Global **/
+name_app = "MaCommercial";
+global_error = "Error";
+global_ok = "Ok";
+global_cancel = "Cancel";
+
+/** Buttons **/
+button_edit = "Edit";
+button_save = "Save";
+
+/** Dialogs **/
+//List Contact ~ Client Detail ~ Report Details
+dialog_send_email_error_title = "Could Not Send Email";
+dialog_send_email_error_message = "Your device could not send e-mail.  Please check e-mail configuration and try again.";
+client_detail_image_dialog_title = "Change profile image";
+client_detail_image_dialog_message = "Enter an URL for the image";
+client_detail_image_dialog_place_holder = "Your URL here";
+client_detail_image_dialog_action_camera = "Camera";
+client_detail_image_dialog_action_library = "Library";
+client_detail_image_dialog_action_url = "URL";
+report_detail_alert_add_fail_message = "The report cannot be added, please retry.";
+report_detail_alert_update_fail_message = "The report cannot be saved, please retry";
+
+/** Login Page **/
+login_error_no_email_and_password = "Please, enter an email and password.";
+login_error_bad_email_or_password = "Bad email or password, please try again!";
+
+/** List Presentations Controller **/
+presentations_list_title = "Presentations";
+
+/** Client Detail ViewController **/
+/** Place holder **/
+client_detail_first_name = "First Name";
+client_detail_last_name = "Last Name";
+client_detail_company = "Company";
+client_detail_job = "Job";
+client_detail_postal_address = "Postal Address";
+client_detail_cell = "Cell Phone Number";
+client_detail_office = "Office Phone Number";
+client_detail_birthday = "Birthday";
+client_detail_email = "Email";
+
+/** Meetings **/
+meetings_list_title = "Meetings";
+meetings_list_report = "Report";
+
+/** Ajout Update RDV ViewController **/
+meeting_add_update_title = "Add Meeting";
+
+/** Details Meeting ViewController **/
+meeting_detail_title = "Meeting";
